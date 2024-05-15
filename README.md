@@ -13,12 +13,15 @@ Required data
 
 
 References
+
 Marggraf, J. (2024a). Improving methods for the hydroacoustic monitoring of suspended
 sand concentration and grain size: Application to the Isere River at Grenoble Campus
 (Doctoral dissertation). University Claude Bernard Lyon 1.
+
 Marggraf, J.,  Le Coz, J., Camenen, B., Lauters, F., Dramais, G., Pierrefeu, G., Topping, D. J., 
 (2024b). Improving hydroacoustic methods for monitoring suspended sand flux and grain size in 
 sediment-laden rivers. Submitted to Earth Surface Processes and Landforms.
+
 Topping, D. J., & Wright, S. A. (2016). Long-term continuous acoustical suspended-sediment1009
 measurements in rivers - theory, application, bias, and error (Professional Paper No.1010
 1823). U. S. Geological Survey. doi: https://doi.org/10.3133/pp1823
