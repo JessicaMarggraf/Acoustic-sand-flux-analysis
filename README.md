@@ -9,7 +9,7 @@ Required data
 2) Suspended sand (and fine sediment) measurements in the cross-section close to the HADCPs.
 3) Continuous discharge, stage and total suspended sediment concentration measurements.
 
-
+Specific data formatting is required for the input data; examples are included. 
 
 
 References
@@ -22,12 +22,13 @@ Marggraf, J.,  Le Coz, J., Camenen, B., Lauters, F., Dramais, G., Pierrefeu, G.,
 (2024b). Improving hydroacoustic methods for monitoring suspended sand flux and grain size in 
 sediment-laden rivers. Submitted to Earth Surface Processes and Landforms.
 
-Topping, D. J., & Wright, S. A. (2016). Long-term continuous acoustical suspended-sediment1009
-measurements in rivers - theory, application, bias, and error (Professional Paper No.1010
-1823). U. S. Geological Survey. doi: https://doi.org/10.3133/pp1823
+Topping, D. J., & Wright, S. A. (2016). Long-term continuous acoustical suspended-sediment
+measurements in rivers - theory, application, bias, and error (Professional Paper No. 1823). 
+U. S. Geological Survey. doi: https://doi.org/10.3133/pp1823
 
 
 Licence
+
 Copyright (C) 2024  INRAE
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
