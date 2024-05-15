@@ -9,10 +9,9 @@ Required data
 2) Suspended sand (and fine sediment) measurements in the cross-section close to the HADCPs.
 3) Continuous discharge, stage and total suspended sediment concentration measurements.
 
-Specific data formatting is required for the input data; examples are included. 
-
-The first step consists of preparing the samples files, using the script 
-
+A detailed step-by-step description is included in the User_manual.pdf in English and French. In 
+this document, the use of the different codes and the required input data, their formatting and 
+the output data are described and illustrated.
 
 
 
