@@ -11,6 +11,10 @@ Required data
 
 Specific data formatting is required for the input data; examples are included. 
 
+The first step consists of preparing the samples files, using the script 
+
+
+
 
 References
 
