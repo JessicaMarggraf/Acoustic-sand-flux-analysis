@@ -1,0 +1,53 @@
+ID,Start_date,End_date,Reason,Sensor
+1,22.04.2021 07:20,22.04.2021 08:00,No good measurements (A in first equal to A in last cell),1000
+2,10.05.2021 03:00,10.05.2021 13:00,Changing Pitch and Roll,
+3,05.08.2021 04:20,05.08.2021 06:26,low Csand for Q at 300 m3s,
+4,25.10.2021 03:00,25.10.2021 03:20,No good measurements (A in first equal to A in last cell),1000
+5,31.10.2021 19:00,01.11.2021 06:25,No good measurements (A in first equal to A in last cell),1000
+6,31.07.2022 21:50,31.07.2022 23:20,No good measurements (A in first equal to A in last cell),1000
+7,07.08.2022 19:50,08.08.2022 04:30,No good measurements (A in first equal to A in last cell),1000
+8,09.08.2022 13:00,10.08.2022 01:35,No good measurements (A in first equal to A in last cell),1000
+9,10.08.2022 22:30,11.08.2022 00:35,No good measurements (A in first equal to A in last cell),1000
+10,12.08.2022 21:00,12.08.2022 22:20,No good measurements (A in first equal to A in last cell),1000
+11,13.08.2022 20:21,13.08.2022 23:40,No good measurements (A in first equal to A in last cell),1000
+12,14.08.2022 02:50,14.08.2022 03:10,No good measurements (A in first equal to A in last cell),1000
+13,21.08.2022 21:40,22.08.2022 03:25,No good measurements (A in first equal to A in last cell),1000
+14,27.08.2022 21:50,28.08.2022 02:45,No good measurements (A in first equal to A in last cell),1000
+15,29.08.2022 09:50,29.08.2022 19:30,No good measurements (A in first equal to A in last cell),1000
+16,29.08.2022 15:40,29.08.2022 06:00,No good measurements (A in first equal to A in last cell),1000
+17,01.09.2022 02:30,01.09.2022 03:00,No good measurements (A in first equal to A in last cell),1000
+18,04.09.2022 21:20,04.09.2022 22:35,No good measurements (A in first equal to A in last cell),1000
+19,06.09.2022 19:40,07.09.2022 04:45,No good measurements (A in first equal to A in last cell),1000
+20,09.09.2022 16:20,09.09.2022 17:45,No good measurements (A in first equal to A in last cell),1000
+21,10.09.2022 02:10,10.09.2022 13:35,No good measurements (A in first equal to A in last cell),1000
+22,10.09.2022 18:20,11.09.2022 09:35,No good measurements (A in first equal to A in last cell),1000
+23,11.09.2022 17:20,12.09.2022 06:10,No good measurements (A in first equal to A in last cell),1000
+24,12.09.2022 11:00,12.09.2022 16:10,No good measurements (A in first equal to A in last cell),1000
+25,12.09.2022 23:20,13.09.2022 18:25,No good measurements (A in first equal to A in last cell),1000
+26,13.09.2022 21:10,14.09.2022 03:35,No good measurements (A in first equal to A in last cell),1000
+27,14.09.2022 12:50,14.09.2022 13:35,No good measurements (A in first equal to A in last cell),1000
+28,14.09.2022 19:40,14.09.2022 23:25,No good measurements (A in first equal to A in last cell),1000
+29,15.09.2022 13:30,15.09.2022 20:00,No good measurements (A in first equal to A in last cell),1000
+30,16.09.2022 01:40,17.09.2022 05:10,No good measurements (A in first equal to A in last cell),1000
+31,17.09.2022 18:30,19.09.2022 05:30,No good measurements (A in first equal to A in last cell),1000
+32,19.09.2022 09:40,19.09.2022 18:35,No good measurements (A in first equal to A in last cell),1000
+33,19.09.2022 22:30,20.09.2022 11:10,No good measurements (A in first equal to A in last cell),1000
+34,20.09.2022 16:00,21.09.2022 12:00,No good measurements (A in first equal to A in last cell),1000
+35,21.09.2022 21:10,22.09.2022 13:00,No good measurements (A in first equal to A in last cell),1000
+36,23.09.2022 00:30,23.09.2022 04:50,No good measurements (A in first equal to A in last cell),1000
+37,23.09.2022 21:50,24.09.2022 03:55,No good measurements (A in first equal to A in last cell),1000
+38,24.09.2022 09:50,24.09.2022 10:05,No good measurements (A in first equal to A in last cell),1000
+39,24.09.2022 20:01,24.09.2022 22:15,No good measurements (A in first equal to A in last cell),1000
+40,25.09.2022 16:10,25.09.2022 19:21,No good measurements (A in first equal to A in last cell),1000
+41,26.09.2022 01:30,26.09.2022 03:05,No good measurements (A in first equal to A in last cell),1000
+42,26.09.2022 21:31,27.09.2022 03:25,No good measurements (A in first equal to A in last cell),1000
+43,27.09.2022 09:00,27.09.2022 11:05,No good measurements (A in first equal to A in last cell),1000
+44,30.09.2022 08:30,30.09.2022 10:30,AlphaSed issue ,400
+45,08.10.2022 18:20,08.10.2022 19:05,No good measurements (A in first equal to A in last cell),1000
+46,09.10.2022 02:20,09.10.2022 04:45,No good measurements (A in first equal to A in last cell),1000
+47,09.10.2022 16:40,09.10.2022 23:25,No good measurements (A in first equal to A in last cell),1000
+48,11.10.2022 12:30,11.10.2022 18:25,No good measurements (A in first equal to A in last cell),1000
+49,13.10.2022 00:50,13.10.2022 02:45,No good measurements (A in first equal to A in last cell),1000
+50,14.10.2022 21:40,14.10.2022 00:25,No good measurements (A in first equal to A in last cell),1000
+51,16.10.2022 00:20,16.10.2022 03:55,No good measurements (A in first equal to A in last cell),1000
+52,16.10.2022 11:40,17.10.2022 04:35,No good measurements (A in first equal to A in last cell),1000
