@@ -11,7 +11,8 @@ Required data
 
 A detailed step-by-step description is included in the User_manual.pdf in English and French. In 
 this document, the use of the different codes and the required input data, their formatting and 
-the output data are described and illustrated.
+the output data are described and illustrated. Example files for the required formatting are included
+in the "Example_data" folder.
 
 
 
