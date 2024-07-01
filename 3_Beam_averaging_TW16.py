@@ -47,7 +47,7 @@ import matplotlib.dates as md
 from datetime import date, timedelta, datetime, time
 import pickle
 import math
-from classes.Choice_2A_monthly_files import user_input_path, user_input_outpath, user_input_outpath_figures, ask_float
+from Functions import user_input_path, user_input_outpath, user_input_outpath_figures, ask_float
 
 #%% 1. LOAD AND PREPARE DATA
 print('Define paths and choose files...')
