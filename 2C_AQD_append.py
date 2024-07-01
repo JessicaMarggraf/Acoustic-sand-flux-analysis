@@ -37,7 +37,7 @@ import tkinter as tk
 import tkinter.filedialog as fd
 import sys
 import pickle 
-from classes.Choice_2A_monthly_files import choice_freq, user_input_path, user_input_outpath
+from Functions import choice_freq, user_input_path, user_input_outpath
 try:
     #%% 1. LOAD DATA
     print('Define paths and frequency...')
