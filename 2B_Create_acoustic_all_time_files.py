@@ -25,7 +25,7 @@ Create all data files (concatenate monthly files)
 
 import glob
 import shutil
-from Choice_2A_monthly_files import choice_freq, user_input_path, user_input_outpath
+from Functions import choice_freq, user_input_path, user_input_outpath
 
 #%% Define paths and frequency
 print('Define paths and frequency...')
