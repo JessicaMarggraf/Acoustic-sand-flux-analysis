@@ -25,7 +25,7 @@ Create monthly files out of ASCII-converted hourly data
 print('General imports')
 import glob
 import shutil
-from Choice_2A_monthly_files import user_input_2A, choice_freq, user_input_path, user_input_outpath, choice_unit
+from Functions import user_input_2A, choice_freq, user_input_path, user_input_outpath, choice_unit
 
 #%% Define paths and month
 print('Import paths and frequency...')
