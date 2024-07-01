@@ -934,7 +934,7 @@ fig.savefig(outpath_figures +'\\' +  figname + '.png', dpi = 300, bbox_inches='t
 
 # using Richards viscous attenuation
 # h = 1/2
-# D50_fines_ref_Rich_mum = 2
+# D50_fines_ref_Rich_mum = 1
 # sigma_fines_ref_Rich_mum = 1
 # ref_dist_fines_Rich_freq1 = compute_model_lognorm_spherical(D50_fines_ref_Rich_mum*1e-6, sigma_fines_ref_Rich_mum, freq1_Hz, h, rho_sed, nu_0)
 # ref_dist_fines_Rich_freq2 = compute_model_lognorm_spherical(D50_fines_ref_Rich_mum*1e-6, sigma_fines_ref_Rich_mum, freq2_Hz, h, rho_sed, nu_0)
